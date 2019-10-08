@@ -1,5 +1,4 @@
 # RFID Access Control Server on Arduino
-==========================
 Copyright (c) 2012 Dzordzs Barens
 
 System to use EtherTen (100% Arduino compatible with onboard Ethernet) [1] 
