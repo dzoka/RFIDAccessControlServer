@@ -1,5 +1,4 @@
-# RFIDAccessControlServer
- RFID Access Control Server on Arduino
+# RFID Access Control Server on Arduino
 ==========================
 Copyright (c) 2012 Dzordzs Barens
 
